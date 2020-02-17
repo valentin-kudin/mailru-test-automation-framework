@@ -1,0 +1,1 @@
+# mailru-test-automation-framework
