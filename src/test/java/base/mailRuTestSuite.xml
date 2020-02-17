@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MailRuSuite" parallel="false">
+    <test name="LoginTest">
+        <classes>
+            <class name="base.LoginLogicTest"/>
+        </classes>
+    </test>
+    <test name="StandardLetterOperationsTest">
+        <classes>
+            <class name="StandardLetterOperationsCucumberTest"/>
+        </classes>
+    </test>
+    <test name="NewFolderTest">
+        <classes>
+            <class name="base.NewFolderLogicTest"/>
+        </classes>
+    </test>
+    <test name="DraftTest">
+        <classes>
+            <class name="base.DraftLogicTest"/>
+        </classes>
+    </test>
+</suite>

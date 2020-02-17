@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="users.xsd">
+    <User id="1">
+        <status>valid</status>
+        <login>testwoods</login>
+        <password>q7(gJ6LN%-6k***</password>
+    </User>
+    <User id="2">
+        <status>invalid</status>
+        <login>parampampam</login>
+        <password>sol34554bdfdfj</password>
+    </User>
+</Users>
