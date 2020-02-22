@@ -5,7 +5,7 @@
     <User id="1">
         <status>valid</status>
         <login>testwoods</login>
-        <password>q7(gJ6LN%-6k***</password>
+        <password>q7(gJ6LN%-6k****</password>
     </User>
     <User id="2">
         <status>invalid</status>

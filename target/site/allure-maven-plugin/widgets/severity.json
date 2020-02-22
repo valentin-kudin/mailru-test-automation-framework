@@ -1,0 +1,81 @@
+[ {
+  "uid" : "32b6d9ca3e42d4bb",
+  "name" : "testIsFolderDeletionSuccessful",
+  "time" : {
+    "start" : 1582388571078,
+    "stop" : 1582388577373,
+    "duration" : 6295
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97aa86f8a3271d55",
+  "name" : "Runs Cucumber Feature",
+  "time" : {
+    "start" : 1582388486944,
+    "stop" : 1582388507097,
+    "duration" : 20153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70a43961b1fc67f6",
+  "name" : "testIsThereSpecificLetterInDrafts",
+  "time" : {
+    "start" : 1582388562139,
+    "stop" : 1582388565883,
+    "duration" : 3744
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "688517928f2f50ce",
+  "name" : "testIsFolderCreationSuccessful",
+  "time" : {
+    "start" : 1582388558430,
+    "stop" : 1582388562135,
+    "duration" : 3705
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffa9daeeac26bea3",
+  "name" : "Runs Cucumber Feature",
+  "time" : {
+    "start" : 1582388453234,
+    "stop" : 1582388481913,
+    "duration" : 28679
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc75e591dd341c3",
+  "name" : "testIsLoginSuccessful",
+  "time" : {
+    "start" : 1582388519159,
+    "stop" : 1582388526896,
+    "duration" : 7737
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7b46b0d8a6c7b4",
+  "name" : "Runs Cucumber Feature",
+  "time" : {
+    "start" : 1582388411424,
+    "stop" : 1582388448022,
+    "duration" : 36598
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2ce6f56eee6713f",
+  "name" : "testIsSavingLetterToDraftsSuccessful",
+  "time" : {
+    "start" : 1582388540022,
+    "stop" : 1582388544985,
+    "duration" : 4963
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

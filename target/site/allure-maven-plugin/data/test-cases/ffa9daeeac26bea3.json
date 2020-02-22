@@ -1,0 +1,96 @@
+{
+  "uid" : "ffa9daeeac26bea3",
+  "name" : "Runs Cucumber Feature",
+  "fullName" : "cucumber.api.testng.AbstractTestNGCucumberTests.feature",
+  "historyId" : "532b324e000ea22fd6dee630508755d1",
+  "time" : {
+    "start" : 1582388453234,
+    "stop" : 1582388481913,
+    "duration" : 28679
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1582388405068,
+      "stop" : 1582388406053,
+      "duration" : 985
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1582388507100,
+      "stop" : 1582388507106,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "StandardLetterOperationsCucumberTest"
+  }, {
+    "name" : "testClass",
+    "value" : "StandardLetterOperationsCucumberTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "feature"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "StandardLetterOperationsCucumberTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Air-Valentine.local"
+  }, {
+    "name" : "thread",
+    "value" : "53297@MacBook-Air-Valentine.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Test Flag letters"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ffa9daeeac26bea3.json",
+  "parameterValues" : [ "Test Flag letters" ]
+}

@@ -1,0 +1,93 @@
+{
+  "uid" : "32b6d9ca3e42d4bb",
+  "name" : "testIsFolderDeletionSuccessful",
+  "fullName" : "base.NewFolderLogicTest.testIsFolderDeletionSuccessful",
+  "historyId" : "dc1d68163e9921f015c66513e80e4323",
+  "time" : {
+    "start" : 1582388571078,
+    "stop" : 1582388577373,
+    "duration" : 6295
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1582388544987,
+      "stop" : 1582388553417,
+      "duration" : 8430
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterClass",
+    "time" : {
+      "start" : 1582388577375,
+      "stop" : 1582388577580,
+      "duration" : 205
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "base.NewFolderLogicTest"
+  }, {
+    "name" : "testClass",
+    "value" : "base.NewFolderLogicTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testIsFolderDeletionSuccessful"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "base.NewFolderLogicTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Air-Valentine.local"
+  }, {
+    "name" : "thread",
+    "value" : "53297@MacBook-Air-Valentine.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32b6d9ca3e42d4bb.json",
+  "parameterValues" : [ ]
+}

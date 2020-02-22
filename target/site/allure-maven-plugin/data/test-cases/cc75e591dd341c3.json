@@ -1,0 +1,93 @@
+{
+  "uid" : "cc75e591dd341c3",
+  "name" : "testIsLoginSuccessful",
+  "fullName" : "base.LoginLogicTest.testIsLoginSuccessful",
+  "historyId" : "cd95cf8479c3ff679c2fa7a3da38e15c",
+  "time" : {
+    "start" : 1582388519159,
+    "stop" : 1582388526896,
+    "duration" : 7737
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1582388507109,
+      "stop" : 1582388514151,
+      "duration" : 7042
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterClass",
+    "time" : {
+      "start" : 1582388526900,
+      "stop" : 1582388527140,
+      "duration" : 240
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "base.LoginLogicTest"
+  }, {
+    "name" : "testClass",
+    "value" : "base.LoginLogicTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testIsLoginSuccessful"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "base.LoginLogicTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Air-Valentine.local"
+  }, {
+    "name" : "thread",
+    "value" : "53297@MacBook-Air-Valentine.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc75e591dd341c3.json",
+  "parameterValues" : [ ]
+}

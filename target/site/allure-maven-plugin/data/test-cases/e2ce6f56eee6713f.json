@@ -1,0 +1,93 @@
+{
+  "uid" : "e2ce6f56eee6713f",
+  "name" : "testIsSavingLetterToDraftsSuccessful",
+  "fullName" : "base.DraftLogicTest.testIsSavingLetterToDraftsSuccessful",
+  "historyId" : "9a75107b597965889cfe16b1c756a273",
+  "time" : {
+    "start" : 1582388540022,
+    "stop" : 1582388544985,
+    "duration" : 4963
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "beforeClass",
+    "time" : {
+      "start" : 1582388527140,
+      "stop" : 1582388535011,
+      "duration" : 7871
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "afterClass",
+    "time" : {
+      "start" : 1582388565884,
+      "stop" : 1582388566072,
+      "duration" : 188
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "base.DraftLogicTest"
+  }, {
+    "name" : "testClass",
+    "value" : "base.DraftLogicTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "testIsSavingLetterToDraftsSuccessful"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "base.DraftLogicTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Air-Valentine.local"
+  }, {
+    "name" : "thread",
+    "value" : "53297@MacBook-Air-Valentine.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e2ce6f56eee6713f.json",
+  "parameterValues" : [ ]
+}

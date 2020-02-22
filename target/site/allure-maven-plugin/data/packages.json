@@ -1,0 +1,121 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "StandardLetterOperationsCucumberTest",
+    "children" : [ {
+      "name" : "feature",
+      "uid" : "c7b46b0d8a6c7b4",
+      "parentUid" : "81950a5ca2c38badccb23ea3105c3a5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582388411424,
+        "stop" : 1582388448022,
+        "duration" : 36598
+      },
+      "flaky" : false,
+      "parameters" : [ "Test moving letter to/out of spam" ]
+    }, {
+      "name" : "feature",
+      "uid" : "ffa9daeeac26bea3",
+      "parentUid" : "81950a5ca2c38badccb23ea3105c3a5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582388453234,
+        "stop" : 1582388481913,
+        "duration" : 28679
+      },
+      "flaky" : false,
+      "parameters" : [ "Test Flag letters" ]
+    }, {
+      "name" : "feature",
+      "uid" : "97aa86f8a3271d55",
+      "parentUid" : "81950a5ca2c38badccb23ea3105c3a5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1582388486944,
+        "stop" : 1582388507097,
+        "duration" : 20153
+      },
+      "flaky" : false,
+      "parameters" : [ "Test send letter" ]
+    } ],
+    "uid" : "81950a5ca2c38badccb23ea3105c3a5a"
+  }, {
+    "name" : "base",
+    "children" : [ {
+      "name" : "LoginLogicTest",
+      "children" : [ {
+        "name" : "testIsLoginSuccessful",
+        "uid" : "cc75e591dd341c3",
+        "parentUid" : "6028abb16fb1a718041ebc09e29bb921",
+        "status" : "passed",
+        "time" : {
+          "start" : 1582388519159,
+          "stop" : 1582388526896,
+          "duration" : 7737
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6028abb16fb1a718041ebc09e29bb921"
+    }, {
+      "name" : "DraftLogicTest",
+      "children" : [ {
+        "name" : "testIsSavingLetterToDraftsSuccessful",
+        "uid" : "e2ce6f56eee6713f",
+        "parentUid" : "87117e284e0b382e266503c97f09eedc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1582388540022,
+          "stop" : 1582388544985,
+          "duration" : 4963
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testIsThereSpecificLetterInDrafts",
+        "uid" : "70a43961b1fc67f6",
+        "parentUid" : "87117e284e0b382e266503c97f09eedc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1582388562139,
+          "stop" : 1582388565883,
+          "duration" : 3744
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "87117e284e0b382e266503c97f09eedc"
+    }, {
+      "name" : "NewFolderLogicTest",
+      "children" : [ {
+        "name" : "testIsFolderCreationSuccessful",
+        "uid" : "688517928f2f50ce",
+        "parentUid" : "20003bd4d3a06b6b1073cf8e4469b797",
+        "status" : "passed",
+        "time" : {
+          "start" : 1582388558430,
+          "stop" : 1582388562135,
+          "duration" : 3705
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "testIsFolderDeletionSuccessful",
+        "uid" : "32b6d9ca3e42d4bb",
+        "parentUid" : "20003bd4d3a06b6b1073cf8e4469b797",
+        "status" : "passed",
+        "time" : {
+          "start" : 1582388571078,
+          "stop" : 1582388577373,
+          "duration" : 6295
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "20003bd4d3a06b6b1073cf8e4469b797"
+    } ],
+    "uid" : "ede7f6f3f95b6abdcb283c19a10610da"
+  } ]
+}

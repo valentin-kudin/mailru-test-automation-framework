@@ -1,0 +1,20 @@
+19:20:24,116  INFO main SpamSteps:loadInboxPage:27 - Login
+19:20:31,107  INFO main SpamSteps:moveLetterToSpam:44 - Move one letter to spam
+19:20:39,296  INFO main SpamSteps:loadSpamPage:34 - Login
+19:20:45,361  INFO main SpamSteps:loadSpamPage:36 - Go to spam
+19:20:47,244  INFO main SpamSteps:moveLetterFromSpam:53 - Move one letter to inbox
+19:21:00,052  INFO main FlagLettersSteps:loadInboxPage:30 - Login
+19:21:06,756  INFO main FlagLettersSteps:flagThreeLetters:37 - 3 letters are flagged.
+19:21:14,233  INFO main FlagLettersSteps:loadInboxPage:30 - Login
+19:21:20,687  INFO main FlagLettersSteps:unflagThreeLetters:45 - Unflag all letters
+19:21:34,942  INFO main SendLetterSteps:loadInboxPage:28 - Login
+19:21:41,178  INFO main SendLetterSteps:openLetterCreationWindow:34 - Open letter creation window
+19:21:45,883  INFO main SendLetterSteps:fillInFields:42 - Fill in letter fields
+19:21:46,108  INFO main SendLetterSteps:sendLetter:48 - Send letter
+19:22:00,792  INFO main LoginLogic:toLogin:22 - Login
+19:22:15,010  INFO main LoginLogic:toLoginValidly:28 - Login with valid credentials
+19:22:24,274  INFO main DraftLogic:createLetterForDrafts:23 - Create letter for drafts
+19:22:24,389  INFO main DraftLogic:saveLetterToDrafts:28 - Save letter
+19:22:33,417  INFO main LoginLogic:toLoginValidly:28 - Login with valid credentials
+19:22:41,525  INFO main NewFolderLogic:createNewFolder:21 - Create new folder
+19:22:52,111  INFO main NewFolderLogic:deleteFolder:28 - Delete folder
